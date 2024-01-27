@@ -1,0 +1,4 @@
+/out/
+/.vs/*
+!/.vs/launch.vs.json
+/data.txt
